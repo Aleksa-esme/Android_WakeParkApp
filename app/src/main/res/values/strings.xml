@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">WakePark</string>
+    <string name="speed_unit">км/ч</string>
+    <string name="dialog_1">Dialog 1</string>
+    <string name="message_text">Выберите действие</string>
+    <string name="load">Зарядить</string>
+    <string name="remove">Снять фал</string>
+    <string name="close">Закрыть</string>
+    <string name="manual">Ручной</string>
+    <string name="auto">Автомат</string>
+    <string name="cash">Касса</string>
+    <string name="withdraw">сброс фала</string>
+    <string name="seat_current">посадить на текущий</string>
+    <string name="remove_current">снять текущий</string>
+    <string name="left">Осталось:</string>
+    <string name="arrow">стрелка</string>
+    <string name="flag">флаг</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="main_driver_unit">%</string>
+    <string name="temperature_unit">°C</string>
+    <string name="pressure_unit">атм</string>
+    <string name="alarm">Авария</string>
+
+
+    <string name="rider_number1">00000</string>
+    <string name="rider_number2">00000</string>
+    <string name="rider_number3">00000</string>
+    <string name="rider_number4">00000</string>
+    <string name="rider_number5">00000</string>
+    <string name="rider_number6">00000</string>
+    <string name="rider_number7">00000</string>
+    <string name="rider_number8">00000</string>
+    <string name="rider_number9">00000</string>
+    <string name="rider_number10">00000</string>
+    <string name="rider_number_new">00000</string>
+    <string name="carriage1_dynamic">1</string>
+    <string name="carriage2_dynamic">2</string>
+    <string name="carriage3_dynamic">3</string>
+    <string name="carriage4_dynamic">4</string>
+    <string name="carriage5_dynamic">5</string>
+    <string name="carriage6_dynamic">6</string>
+    <string name="carriage7_dynamic">7</string>
+    <string name="carriage8_dynamic">8</string>
+    <string name="carriage9_dynamic">9</string>
+    <string name="carriage10_dynamic">10</string>
+    <string name="carriage_new">00</string>
+    <string name="carriage1">1</string>
+    <string name="carriage2">2</string>
+    <string name="carriage3">3</string>
+    <string name="carriage4">4</string>
+    <string name="carriage5">5</string>
+    <string name="carriage6">6</string>
+    <string name="carriage7">7</string>
+    <string name="carriage8">8</string>
+    <string name="carriage9">9</string>
+    <string name="carriage10">10</string>
+    <string name="time_left_new">00:00</string>
+    <string name="time_left1">00:00</string>
+    <string name="time_left2">00:00</string>
+    <string name="time_left3">00:00</string>
+    <string name="time_left4">00:00</string>
+    <string name="time_left5">00:00</string>
+    <string name="time_left6">00:00</string>
+    <string name="time_left7">00:00</string>
+    <string name="time_left8">00:00</string>
+    <string name="time_left9">00:00</string>
+    <string name="time_left10">00:00</string>
+    <string name="time_total1">00:00</string>
+    <string name="time_total2">00:00</string>
+    <string name="time_total3">00:00</string>
+    <string name="time_total4">00:00</string>
+    <string name="time_total5">00:00</string>
+    <string name="time_total6">00:00</string>
+    <string name="time_total7">00:00</string>
+    <string name="time_total8">00:00</string>
+    <string name="time_total9">00:00</string>
+    <string name="time_total10">00:00</string>
+    <string name="speed_number">00</string>
+    <string name="main_driver_number">000</string>
+    <string name="temperature_number">00</string>
+    <string name="pressure_number">00,0</string>
+    <string name="errors">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff g gggggggggggggggggggggggggggggggggggggggggggggggggggggggg h  hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr</string>
+
+
+
+
+</resources>
